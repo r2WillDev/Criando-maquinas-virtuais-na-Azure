@@ -1,7 +1,3 @@
-## Descrição
-Este README documenta, passo a passo, o processo de criação de uma Máquina Virtual (VM) **Windows** pelo **Portal do Azure**. O objetivo é fornecer instruções reprodutíveis e seguras — do provisionamento à verificação e limpeza dos recursos 
-
----
 
 ## Pré-requisitos
 - Conta ativa no [Azure Portal](https://portal.azure.com) com permissão para criar recursos (assinatura com quota suficiente).  
